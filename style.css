@@ -1,0 +1,33 @@
+/* header*/
+.custom_bg{
+  background-color: #7751AF;
+  
+}
+.my_color{
+  padding: 10px 0;
+  color: white!important;
+}
+.c_form{
+  margin-top: 100px;
+}
+.content{
+  padding-top: 100px;
+  height:  3000px;
+  overflow-y: scroll;
+} 
+.custom_heading{
+  margin-bottom: 30px;
+  font-size: 55px;
+}
+.custom_heading2{
+  margin: 80px 0 30px;
+  font-size: 35px;
+}
+.spy1{
+  height: 300px;
+  overflow-y: scroll;
+}
+.scrollspy{
+  height: 200px;
+  overflow-y: scroll;
+}
