@@ -8,7 +8,7 @@
     <!-- css link -->
     <link rel="stylesheet" href="bootstrap.css">
     <link rel="stylesheet" href="style.css">
-    <title>Bootstrap Alert</title>
+    <title>Bootstrap Pobovers</title>
   </head>
   <body>
     <!-- header-->
@@ -114,5 +114,10 @@ sagittis lacus vel augue laoreet rutrum faucibus.">
     <script src="popper.min.js"></script>
     <script src="bootstrap.min.js"></script>
     <script src="script.js"></script>
+    <script>
+      $(function () {
+  $('[data-toggle="popover"]').popover()
+})
+    </script>
   </body>
 </html>
